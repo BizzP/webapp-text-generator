@@ -5,8 +5,8 @@ export const API_URL = `${process.env.NEXT_PUBLIC_API_URL}`
 export const APP_INFO: AppInfo = {
   title: 'Text Generator APP',
   description: 'App description',
-  copyright: 'Test',
-  privacy_policy: 'Testtest',
+  copyright: '',
+  privacy_policy: '',
   default_language: 'en-US',
 }
 
